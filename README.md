@@ -1,1 +1,1 @@
-# pepperdine_cosc320
+# cs_digest
