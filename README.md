@@ -7,7 +7,7 @@
 
 ## Meeting Times
 
-* Every Sunday as 4pm (subject to change so check slack)
+* Every Sunday at 4pm (subject to change so check slack)
 
 ## How to create your own branch for the club
 
